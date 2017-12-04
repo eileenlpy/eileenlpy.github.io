@@ -1,0 +1,35 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font: size 900px;
+}
+
+body{
+    background-color:peachpuff;
+}
+
+.circle{
+    width:128px;
+    border-radius:100px;
+    border:2px black dotted;
+}
+
+.menuitem{
+    display:inline;
+    font-size: 0.9em;
+    background-color:pink;
+    border-top-left-radius: 100px;
+    border-top-left-radius: 100px;
+}
+
+.buttbar{
+    position:fixed;
+    right:0px;
+    top:100px;
+}
+
+.buttbar-text{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:1.3EM;
+    font-weight:bold;
+    text-align:center;
+}
