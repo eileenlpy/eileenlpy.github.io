@@ -30,9 +30,8 @@ img:hover{
     position:fixed;
     right:0px;
     top:300px;
-    z-index:1;
+    z-index:99;
     width:150px;
-
 }
 
 .buttbar-text{
